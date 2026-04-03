@@ -24,8 +24,7 @@
 
 ### 1. Clone the Repository
 ```bash
-    git clone https://github.com/siddharthprajapati05/Railway-Public-Address-System.git
-    cd Railwaymlproject
+    git clone https://github.com/harsh-kumar274/Public-Railway-Address-System.git
 ```
 
 ### 2. Set Up Virtual Environment
